@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pedido>
+    <produto codigo="123">
+        <nome>Não sei </nome>
+        <descricao>Sabe quanto Custa isso!</descricao>
+    </produto>
+    <produto codigo="123">
+        <nome>Não consigo ler nada </nome>
+        <descricao>Sabe quanto!</descricao>
+    </produto>
+</pedido>
